@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "dotsy": {
+      "type": "http",
+      "url": "https://mcp.dotsy.ai/mcp",
+      "note": "Dotsy's hosted MCP server. Authenticate through OAuth in the browser — no API key needed."
+    }
+  }
+}

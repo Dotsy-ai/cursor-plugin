@@ -1,14 +1,21 @@
-# Dotsy for Cursor
+# Dotsy for Cursor and Grok Build
 
-One-click [Dotsy](https://dotsy.ai) MCP for Cursor. Your AI builds, edits, and publishes sites; Dotsy hosts them.
+One-click [Dotsy](https://dotsy.ai) MCP for Cursor and [Grok Build](https://x.ai/grok). Your AI builds, edits, and publishes sites; Dotsy hosts them.
 
 MCP endpoint: `https://mcp.dotsy.ai/mcp`
 
 ## Install
 
+### Cursor
+
 1. Install this plugin from the Cursor Marketplace (or clone locally for testing).
 2. Open **Cursor Settings → Tools & MCP**.
 3. Click **Connect** next to `dotsy` and sign in to Dotsy in the browser.
+
+### Grok Build
+
+1. Install this plugin from the [xAI Plugin Marketplace](https://github.com/xai-org/plugin-marketplace).
+2. Click **Connect** next to `dotsy` and sign in to Dotsy in the browser via OAuth.
 
 ## Local test
 
