@@ -1,9 +1,11 @@
 {
   "name": "dotsy",
+  "displayName": "Dotsy",
   "version": "1.0.0",
   "description": "AI-first website builder over MCP. Build, edit, import, and publish sites from Cursor with your own AI.",
   "author": {
-    "name": "Dotsy"
+    "name": "Dotsy",
+    "email": "zzare.manojlovic@gmail.com"
   },
   "homepage": "https://dotsy.ai",
   "repository": "https://github.com/Dotsy-ai/cursor-plugin",
